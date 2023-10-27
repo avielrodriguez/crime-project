@@ -1,7 +1,12 @@
-# Coming Soon!
-Finishing some final touches on the code and developing a good summary of all I've been working on in a bit. 
+# When crime, climate, and socio-economic data come together (MySQL, Python, dbForge)
 
-For now, here are some screenshots of my progress:
+Learned a ton with this project, specifically in three areas:
+
+1. Build a storage-efficient data warehouse
+2. Construct four data pipelines using pandas library in Python
+3. Perform data cleaning for 46K+ records using dynamic SQL query logic
+
+To get an idea for the coding environment I was working with, here are some screenshots of my progress:
 
 ![image](https://github.com/avielrodriguez/crime-project/assets/57885718/c0018abf-6e32-4b96-bf94-bc99e0c884eb)
 
