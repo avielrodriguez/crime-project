@@ -20,5 +20,6 @@ Implementing SQL and getting used to MySQL on dbForge.
 
 Experimenting with LEFT JOINs to unite similar tables.
 
-Stay tuned for more!
+<img width="567" alt="image" src="https://github.com/avielrodriguez/crime-project/assets/57885718/f850eef9-c292-476d-890f-d67a00ee3bf5">
+
 
