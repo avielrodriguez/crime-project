@@ -22,5 +22,5 @@ Experimenting with LEFT JOINs to unite similar tables.
 
 ![image](https://github.com/avielrodriguez/crime-project/assets/57885718/f850eef9-c292-476d-890f-d67a00ee3bf5)
 
-Building the data pipelines from Excel data to SQL database using pandas 
+Building the data pipelines from Excel data to SQL database using pandas.
 
